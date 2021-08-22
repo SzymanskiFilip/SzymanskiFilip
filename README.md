@@ -2,6 +2,7 @@
 
 Hello again, I'm Filip and I like to learn and code in different fields,
 I particularly like Web and Game development.
+[my website](http://filipszymanski.eu/)
 
 I'm currently learning
 
