@@ -8,8 +8,3 @@ I'm currently learning
 - Java Spring
 - LWJGL
 - Godot
-
-I'm currently working on
-
-- LWJGL Mario game
-- Remake of my PyGame game in Godot
