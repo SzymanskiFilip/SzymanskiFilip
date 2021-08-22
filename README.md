@@ -8,3 +8,4 @@ I'm currently learning
 - Java Spring
 - LWJGL
 - Godot
+- React
