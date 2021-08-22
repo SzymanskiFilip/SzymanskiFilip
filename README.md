@@ -6,6 +6,5 @@ I particularly like Web and Game development.
 I'm currently learning
 
 - Java Spring
-- LWJGL
 - Godot
 - React
