@@ -5,7 +5,6 @@ I particularly like Web and Game development.
 
 I'm currently learning:
 
-- Java Advanced stuff
 - Java Spring Framework
 - Godot
-- ReactJS
+- React
